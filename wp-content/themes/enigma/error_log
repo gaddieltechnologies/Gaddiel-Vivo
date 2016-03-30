@@ -1,0 +1,10 @@
+[01-Mar-2016 14:16:12 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/qualitycaredialy/public_html/vivokidneycare.com/wp-content/themes/enigma/header.php on line 9
+[01-Mar-2016 14:16:13 UTC] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home/qualitycaredialy/public_html/vivokidneycare.com/wp-content/themes/enigma/functions.php on line 6
+[01-Mar-2016 14:16:14 UTC] PHP Fatal error:  Call to undefined function weblizar_get_options() in /home/qualitycaredialy/public_html/vivokidneycare.com/wp-content/themes/enigma/footer.php on line 2
+[01-Mar-2016 14:16:30 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/qualitycaredialy/public_html/vivokidneycare.com/wp-content/themes/enigma/author.php on line 1
+[01-Mar-2016 14:16:31 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/qualitycaredialy/public_html/vivokidneycare.com/wp-content/themes/enigma/archive.php on line 1
+[01-Mar-2016 14:16:31 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/qualitycaredialy/public_html/vivokidneycare.com/wp-content/themes/enigma/404.php on line 1
+[01-Mar-2016 14:16:32 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/qualitycaredialy/public_html/vivokidneycare.com/wp-content/themes/enigma/404.php on line 1
+[13-Mar-2016 14:51:56 UTC] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home/qualitycaredialy/public_html/vivokidneycare.com/wp-content/themes/enigma/functions.php on line 6
+[13-Mar-2016 14:51:56 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/qualitycaredialy/public_html/vivokidneycare.com/wp-content/themes/enigma/404.php on line 1
+[13-Mar-2016 14:51:57 UTC] PHP Fatal error:  Call to undefined function weblizar_get_options() in /home/qualitycaredialy/public_html/vivokidneycare.com/wp-content/themes/enigma/footer.php on line 2
